@@ -1,11 +1,11 @@
 # SpringSAML  access url:
-http://localhost:8080/Spring4mvcSAML2/saml/web/student
+http://localhost:8080/SpringmvcSAML2/saml/web/student
 
 # meta data url 
-http://localhost:8080/Spring4mvcSAML2/saml/metadata
+http://localhost:8080/SpringmvcSAML2/saml/metadata
 
 # sso login url 
-http://localhost:8080/Spring4mvcSAML2/saml/login
+http://localhost:8080/SpringmvcSAML2/saml/login
 
 # logout url
-http://localhost:8080/Spring4mvcSAML2/saml/logout
+http://localhost:8080/SpringmvcSAML2/saml/logout
